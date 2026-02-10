@@ -1,0 +1,9 @@
+.app-layout {
+  display: flex; /* left sidebar + right content */
+  min-height: 100vh; /* ensure full height */
+}
+
+.content-area {
+  flex: 1;
+  padding: 24px;
+}
