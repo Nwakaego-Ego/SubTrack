@@ -1,5 +1,5 @@
 export type RoundingMode = 
-| "roudningUp" 
+| "roundingUp" 
 | "roundingDown"
 | "roundingNearest";
 
