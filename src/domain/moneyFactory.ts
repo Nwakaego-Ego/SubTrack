@@ -19,7 +19,6 @@ export default function MoneyFactory(raw: number, roundMode: RoundingMode) : Mon
     }
      }
       
-
      const converted = raw * 100
     const rounded = rounding(converted)
     return {

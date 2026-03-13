@@ -37,6 +37,7 @@ const store: SubscriptionStore = {
     
 }
 
+export default store;
 
 
 // addSubscription — pushes a new subscription into the array
